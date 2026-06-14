@@ -1,4 +1,4 @@
-
+     
   <div align="center">
 
   ### Tory Kovdya
@@ -7,12 +7,8 @@
 
   Building AI-powered systems for legal research, education, and content automation.
 
-  [![Website](https://img.shields.io/badge/🌐-torykovdya.xyz-355C4A?style=flat-square)](https://torykovd
-  ya.xyz)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](ht
-  tps://www.linkedin.com/in/torykovdya)
-  [![Dev.to](https://img.shields.io/badge/Dev.to-Articles-333?style=flat-square&logo=dev.to)](https://de
-  v.to/toryreut)
+  🌐 [torykovdya.xyz](https://torykovdya.xyz)　·　💼
+  [LinkedIn](https://www.linkedin.com/in/torykovdya)　·　📝 [Dev.to](https://dev.to/toryreut)
 
   </div>
 
