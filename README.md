@@ -8,7 +8,7 @@
   Building AI-powered systems for legal research, education, and content automation.
 
   🌐 [torykovdya.xyz](https://torykovdya.xyz)　·　💼
-  [LinkedIn](https://www.linkedin.com/in/torykovdya)　·　📝 [Dev.to](https://dev.to/toryreut)
+  [LinkedIn](https://www.linkedin.com/in/torykovdya)　·　📝 [Dev.to](https://dev.to/torykovdya)
 
   </div>
 
@@ -28,7 +28,6 @@
   ### Currently building
 
   - **Zakonnik BY** — Belarusian Legal AI Assistant with grounded RAG pipeline
-  ([github.com/torykovdya/zakonnik-by](https://github.com/torykovdya/zakonnik-by))
   - **ComplianceGPT** — AI compliance employee with semantic document retrieval
   - **Claude Skills Library** — open-source collection of reusable skills for research & workflow design
 
